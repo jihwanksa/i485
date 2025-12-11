@@ -1,0 +1,7 @@
+# .gitignore
+# Byte‑compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
