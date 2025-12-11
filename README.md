@@ -13,7 +13,7 @@ This repository contains scripts and data files used for analyzing and tracking 
 
 Run the main script with Python:
 ```bash
-python track_similar_cases.py
+python3 track_similar_cases.py
 ```
 
 The script reads `similar.txt` and `similar_cases_history.csv` and produces output based on the analysis logic defined within.
