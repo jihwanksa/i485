@@ -1,0 +1,216 @@
+receipt_number,status,status_date,status_type,scraped_at
+IOE0929281589,Case Was Received,2024-12-26,case_received,2025-12-07 15:22:08
+IOE0929281589,Interview Cancelled,2025-07-17,interview_cancelled,2025-12-07 14:22:16
+IOE0929281848,Case Was Received,2024-12-26,case_received,2025-12-11 12:33:24
+IOE0929281848,Interview Cancelled,2025-06-11,interview_cancelled,2025-12-07 15:22:08
+IOE0929281848,Card Was Produced,2025-11-13,last_status,2025-12-07 14:22:16
+IOE0929609537,Case Was Received,2025-01-17,case_received,2025-12-07 14:22:16
+IOE0929609537,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 14:22:16
+IOE0929609629,Case Was Received,2025-01-17,case_received,2025-12-07 14:22:16
+IOE0929609629,Interview Cancelled,2025-05-06,interview_cancelled,2025-12-07 15:22:08
+IOE0929723419,Case Was Received,2025-01-24,case_received,2025-12-07 14:22:16
+IOE0929723419,Interview Cancelled,2025-06-09,interview_cancelled,2025-12-07 14:22:16
+IOE0929747134,Case Was Received,2025-01-24,case_received,2025-12-07 14:22:16
+IOE0929747134,Interview Cancelled,2025-06-16,interview_cancelled,2025-12-07 14:22:16
+IOE0929795537,Case Was Received,2025-01-02,case_received,2025-12-07 14:22:16
+IOE0929795537,Interview Cancelled,2025-06-10,interview_cancelled,2025-12-07 15:22:08
+IOE0929795537,Case Is Being Actively Reviewed By USCIS,2025-12-08,last_status,2025-12-11 08:13:03
+IOE0929795540,Interview Cancelled,2025-06-10,interview_cancelled,2025-12-07 15:22:08
+IOE0929795540,Interview Was Scheduled,2025-10-22,case_received,2025-12-11 08:13:03
+IOE0929795540,Case Is Being Actively Reviewed By USCIS,2025-12-08,last_status,2025-12-09 08:54:35
+IOE0929799140,Case Was Received,2025-01-14,case_received,2025-12-07 14:22:16
+IOE0929799140,Interview Cancelled,2025-06-11,interview_cancelled,2025-12-07 15:22:08
+IOE0929799142,Case Was Received,2025-01-14,case_received,2025-12-07 14:22:16
+IOE0929799142,Interview Cancelled,2025-06-11,interview_cancelled,2025-12-07 14:22:16
+IOE0929898391,Case Was Received,2025-02-03,case_received,2025-12-07 14:22:16
+IOE0929898391,Interview Cancelled,2025-07-07,interview_cancelled,2025-12-07 14:22:16
+IOE0930073132,Case Was Received,2025-01-31,case_received,2025-12-07 14:22:16
+IOE0930073132,Interview Cancelled,2025-07-24,interview_cancelled,2025-12-07 14:22:16
+IOE0930073134,Case Was Received,2025-01-31,case_received,2025-12-07 14:22:16
+IOE0930073134,Interview Cancelled,2025-07-24,interview_cancelled,2025-12-07 14:22:16
+IOE0930100163,Case Was Received,2025-01-30,case_received,2025-12-07 14:22:16
+IOE0930100163,Interview Cancelled,2025-06-16,interview_cancelled,2025-12-07 14:22:16
+IOE0930166668,Case Was Received,2025-02-04,case_received,2025-12-07 14:22:16
+IOE0930166668,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 14:22:16
+IOE0930172248,Case Was Received,2025-02-14,case_received,2025-12-07 14:22:16
+IOE0930172248,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 14:22:16
+IOE0930172292,Case Was Received,2025-02-14,case_received,2025-12-07 14:22:16
+IOE0930172292,Interview Cancelled,2025-06-18,interview_cancelled,2025-12-07 15:22:08
+IOE0930172292,Case Is Being Actively Reviewed By USCIS,2025-10-28,last_status,2025-12-07 15:22:08
+IOE0930172477,Case Was Received,2025-02-14,case_received,2025-12-07 14:22:16
+IOE0930172477,Interview Cancelled,2025-07-27,interview_cancelled,2025-12-07 15:22:08
+IOE0930216849,Case Was Received,2025-02-14,case_received,2025-12-07 14:22:16
+IOE0930216849,Interview Cancelled,2025-05-06,interview_cancelled,2025-12-07 14:22:16
+IOE0930272366,Case Was Received,2025-02-20,case_received,2025-12-07 14:22:16
+IOE0930272366,Interview Cancelled,2025-05-21,interview_cancelled,2025-12-07 14:22:16
+IOE0930278046,Case Was Received,2025-02-20,case_received,2025-12-07 14:22:16
+IOE0930278046,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 14:22:16
+IOE0930290127,Card Was Produced,2025-12-03,last_status,2025-12-07 14:22:16
+IOE0930290127,Card Was Produced,2025-12-03,case_received,2025-12-11 12:33:24
+IOE0930290241,Case Was Received,2025-02-21,case_received,2025-12-07 14:22:16
+IOE0930290241,Interview Cancelled,2025-06-06,interview_cancelled,2025-12-07 14:22:16
+IOE0930327767,Case Was Received,2025-02-21,case_received,2025-12-07 14:22:16
+IOE0930327767,Interview Cancelled,2025-07-10,interview_cancelled,2025-12-07 14:22:16
+IOE0930333403,Case Was Received,2025-02-24,case_received,2025-12-07 14:22:16
+IOE0930333403,Interview Cancelled,2025-05-16,interview_cancelled,2025-12-07 14:22:16
+IOE0930336883,Case Was Received,2025-02-24,case_received,2025-12-07 14:22:16
+IOE0930336883,Interview Cancelled,2025-07-24,interview_cancelled,2025-12-07 14:22:16
+IOE0930353777,Case Was Received,2025-02-24,case_received,2025-12-07 14:22:16
+IOE0930353777,Interview Cancelled,2025-07-17,interview_cancelled,2025-12-07 14:22:16
+IOE0930411727,Case Was Received,2025-02-27,case_received,2025-12-07 14:22:16
+IOE0930411727,Interview Cancelled,2025-06-26,interview_cancelled,2025-12-07 14:22:16
+IOE0930411999,Case Was Received,2025-02-27,case_received,2025-12-07 14:22:16
+IOE0930411999,Interview Cancelled,2025-06-19,interview_cancelled,2025-12-07 15:22:08
+IOE0930435337,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930435337,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 14:22:16
+IOE0930435936,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930435936,Interview Cancelled,2025-06-08,interview_cancelled,2025-12-07 14:22:16
+IOE0930436131,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930436131,Interview Cancelled,2025-07-08,interview_cancelled,2025-12-07 14:22:16
+IOE0930436576,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930436576,Interview Cancelled,2025-07-31,interview_cancelled,2025-12-07 14:22:16
+IOE0930561527,Case Was Received,2025-03-06,case_received,2025-12-07 14:22:16
+IOE0930561527,Interview Cancelled,2025-06-27,interview_cancelled,2025-12-07 15:22:08
+IOE0930561527,Interview Cancelled,2025-12-04,last_status,2025-12-08 15:07:55
+IOE0930592053,Case Was Received,2025-03-07,case_received,2025-12-07 14:22:16
+IOE0930592053,Interview Cancelled,2025-07-09,interview_cancelled,2025-12-07 15:22:08
+IOE0930668358,Case Was Received,2025-03-11,case_received,2025-12-07 14:22:16
+IOE0930668358,Interview Cancelled,2025-07-29,interview_cancelled,2025-12-07 15:22:08
+IOE0930668757,Case Was Received,2025-02-25,case_received,2025-12-07 14:22:16
+IOE0930668757,Interview Cancelled,2025-05-20,interview_cancelled,2025-12-07 15:22:08
+IOE0930668760,Case Was Received,2025-02-25,case_received,2025-12-07 14:22:16
+IOE0930668760,Interview Cancelled,2025-07-22,interview_cancelled,2025-12-07 15:22:08
+IOE0930668763,Case Was Received,2025-02-25,case_received,2025-12-07 14:22:16
+IOE0930668763,Interview Cancelled,2025-07-22,interview_cancelled,2025-12-07 15:22:08
+IOE0930668765,Case Was Received,2025-02-25,case_received,2025-12-07 14:22:16
+IOE0930668765,Interview Cancelled,2025-07-22,interview_cancelled,2025-12-07 15:22:08
+IOE0930668850,Case Was Received,2025-03-11,case_received,2025-12-07 14:22:16
+IOE0930668850,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930668851,Case Was Received,2025-03-11,case_received,2025-12-07 14:22:16
+IOE0930668851,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930669180,Case Was Received,2025-02-27,case_received,2025-12-07 14:22:16
+IOE0930669180,Interview Cancelled,2025-05-27,interview_cancelled,2025-12-07 14:22:16
+IOE0930669352,Case Was Received,2025-02-24,case_received,2025-12-07 14:22:16
+IOE0930669352,Interview Cancelled,2025-07-01,interview_cancelled,2025-12-07 15:22:08
+IOE0930669352,Card Was Produced,2025-10-08,last_status,2025-12-07 15:22:08
+IOE0930674254,Case Was Received,2025-02-24,case_received,2025-12-07 14:22:16
+IOE0930674254,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 15:22:08
+IOE0930674469,Case Was Received,2025-02-24,case_received,2025-12-07 14:22:16
+IOE0930674469,Interview Cancelled,2025-07-23,interview_cancelled,2025-12-07 14:22:16
+IOE0930674883,Interview Was Scheduled,2025-06-18,case_received,2025-12-11 12:33:24
+IOE0930674883,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 14:22:16
+IOE0930681838,Case Was Received,2025-03-12,case_received,2025-12-07 14:22:16
+IOE0930681838,Interview Cancelled,2025-05-14,interview_cancelled,2025-12-07 15:22:08
+IOE0930681861,Case Was Received,2025-03-12,case_received,2025-12-07 14:22:16
+IOE0930681861,Interview Cancelled,2025-07-16,interview_cancelled,2025-12-07 15:22:08
+IOE0930682052,Case Was Received,2025-03-12,case_received,2025-12-07 14:22:16
+IOE0930682052,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 14:22:16
+IOE0930682054,Case Was Received,2025-03-12,case_received,2025-12-07 14:22:16
+IOE0930682054,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930682113,Case Was Received,2025-03-12,case_received,2025-12-07 14:22:16
+IOE0930682113,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930682115,Case Was Received,2025-03-12,case_received,2025-12-07 14:22:16
+IOE0930682115,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930684555,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930684555,Interview Cancelled,2025-05-27,interview_cancelled,2025-12-07 15:22:08
+IOE0930684570,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930684570,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930684572,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930684572,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930684576,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930684576,Interview Cancelled,2025-06-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930689209,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930689209,Interview Cancelled,2025-06-27,interview_cancelled,2025-12-07 15:22:08
+IOE0930689210,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930689210,Interview Cancelled,2025-06-27,interview_cancelled,2025-12-07 15:22:08
+IOE0930689777,Case Was Received,2025-03-12,case_received,2025-12-07 14:22:16
+IOE0930689777,Interview Cancelled,2025-06-13,interview_cancelled,2025-12-07 14:22:16
+IOE0930704296,Case Was Received,2025-03-12,case_received,2025-12-11 12:33:24
+IOE0930704296,Interview Cancelled,2025-06-16,interview_cancelled,2025-12-07 15:22:08
+IOE0930704296,Card Was Produced,2025-12-03,last_status,2025-12-11 08:13:03
+IOE0930745141,Case Was Received,2025-02-25,case_received,2025-12-07 14:22:16
+IOE0930745141,Interview Cancelled,2025-06-26,interview_cancelled,2025-12-07 14:22:16
+IOE0930745142,Case Was Received,2025-02-25,case_received,2025-12-11 12:33:24
+IOE0930745142,Interview Cancelled,2025-06-26,interview_cancelled,2025-12-07 15:22:08
+IOE0930745142,Request for Evidence,2025-11-17,last_status,2025-12-07 15:22:08
+IOE0930745420,Case Was Received,2025-03-14,case_received,2025-12-07 14:22:16
+IOE0930745420,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 15:22:08
+IOE0930752261,Case Was Received,2025-03-14,case_received,2025-12-07 14:22:16
+IOE0930752261,Interview Cancelled,2025-06-16,interview_cancelled,2025-12-07 14:22:16
+IOE0930802638,Case Was Received,2025-03-17,case_received,2025-12-07 14:22:16
+IOE0930802638,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 15:22:08
+IOE0930802675,Case Was Received,2025-03-17,case_received,2025-12-07 14:22:16
+IOE0930802675,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 14:22:16
+IOE0930803166,Case Was Received,2025-03-17,case_received,2025-12-07 14:22:16
+IOE0930803166,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 15:22:08
+IOE0930803173,Case Was Received,2025-03-17,case_received,2025-12-07 14:22:16
+IOE0930803173,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 15:22:08
+IOE0930803871,Case Was Received,2025-03-17,case_received,2025-12-07 14:22:16
+IOE0930803871,Interview Cancelled,2025-05-28,interview_cancelled,2025-12-07 14:22:16
+IOE0930808848,Case Was Received,2025-03-17,case_received,2025-12-09 08:54:35
+IOE0930808848,Case Is Still Being Processed By USCIS,2025-04-09,last_status,2025-12-09 08:54:35
+IOE0930808849,Case Was Received,2025-03-17,case_received,2025-12-09 08:54:35
+IOE0930808849,Case Is Still Being Processed By USCIS,2025-04-09,last_status,2025-12-09 08:54:35
+IOE0930808850,Case Was Received,2025-03-17,case_received,2025-12-07 15:22:08
+IOE0930808850,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 14:22:16
+IOE0930819813,Case Was Received,2025-02-28,case_received,2025-12-07 15:22:08
+IOE0930819813,Interview Cancelled,2025-07-16,interview_cancelled,2025-12-07 15:22:08
+IOE0930819878,Case Was Received,2025-03-18,case_received,2025-12-07 15:22:08
+IOE0930819878,Interview Cancelled,2025-07-17,interview_cancelled,2025-12-07 14:22:16
+IOE0930823221,Case Was Received,2025-03-17,case_received,2025-12-07 14:22:16
+IOE0930823221,Interview Cancelled,2025-07-28,interview_cancelled,2025-12-07 15:22:08
+IOE0930826009,Case Was Received,2025-03-18,case_received,2025-12-07 14:22:16
+IOE0930826009,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 15:22:08
+IOE0930828263,Case Was Received,2025-02-28,case_received,2025-12-07 14:22:16
+IOE0930828263,Interview Cancelled,2025-07-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930828807,Case Was Received,2025-03-18,case_received,2025-12-07 14:22:16
+IOE0930828807,Interview Cancelled,2025-07-08,interview_cancelled,2025-12-07 15:22:08
+IOE0930828807,Interview Was Scheduled,2025-10-09,last_status,2025-12-07 15:22:08
+IOE0930829488,Case Was Received,2025-03-18,case_received,2025-12-07 15:22:08
+IOE0930829488,Interview Cancelled,2025-07-13,interview_cancelled,2025-12-07 14:22:16
+IOE0930829811,Case Was Received,2025-03-18,case_received,2025-12-07 14:22:16
+IOE0930829811,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 15:22:08
+IOE0930831153,Case Was Received,2025-03-18,case_received,2025-12-07 15:22:08
+IOE0930831153,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 15:22:08
+IOE0930831153,Card Was Produced,2025-10-02,last_status,2025-12-07 15:22:08
+IOE0930835670,Case Was Received,2025-03-18,case_received,2025-12-07 14:22:16
+IOE0930835670,Interview Cancelled,2025-06-18,interview_cancelled,2025-12-07 15:22:08
+IOE0930846446,Case Was Received,2025-03-19,case_received,2025-12-07 14:22:16
+IOE0930846446,Interview Cancelled,2025-07-07,interview_cancelled,2025-12-07 15:22:08
+IOE0930853780,Case Was Received,2025-03-19,case_received,2025-12-07 14:22:16
+IOE0930853780,Interview Cancelled,2025-07-30,interview_cancelled,2025-12-07 15:22:08
+IOE0930854723,Case Was Received,2025-03-19,case_received,2025-12-09 21:35:44
+IOE0930854723,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 15:22:08
+IOE0930854723,Card Was Produced,2025-10-22,last_status,2025-12-07 14:22:16
+IOE0930855389,Case Was Received,2025-03-03,case_received,2025-12-07 15:22:08
+IOE0930855389,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 14:22:16
+IOE0930860280,Case Was Received,2025-03-19,case_received,2025-12-07 14:22:16
+IOE0930860280,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 15:22:08
+IOE0930869345,Case Was Received,2025-03-20,case_received,2025-12-07 14:22:16
+IOE0930869345,Interview Cancelled,2025-06-25,interview_cancelled,2025-12-07 14:22:16
+IOE0930870772,Case Was Received,2025-03-20,case_received,2025-12-07 14:22:16
+IOE0930870772,Interview Cancelled,2025-07-29,interview_cancelled,2025-12-07 15:22:08
+IOE0930870772,Interview Was Scheduled,2025-12-03,last_status,2025-12-09 08:54:35
+IOE0930871154,Case Was Received,2025-03-20,case_received,2025-12-11 08:13:03
+IOE0930871154,Interview Cancelled,2025-07-25,interview_cancelled,2025-12-07 15:22:08
+IOE0930871154,Interview Was Scheduled,2025-11-24,last_status,2025-12-07 14:22:16
+IOE0930880775,Case Was Received,2025-03-20,case_received,2025-12-07 14:22:16
+IOE0930880775,Interview Cancelled,2025-05-09,interview_cancelled,2025-12-07 14:22:16
+IOE0930884754,Case Was Received,2025-03-04,case_received,2025-12-07 14:22:16
+IOE0930884754,Interview Cancelled,2025-07-18,interview_cancelled,2025-12-07 15:22:08
+IOE0930890497,Case Was Received,2025-03-21,case_received,2025-12-07 15:22:08
+IOE0930890497,Interview Cancelled,2025-07-09,interview_cancelled,2025-12-07 15:22:08
+IOE0930890705,Case Was Received,2025-03-21,case_received,2025-12-07 14:22:16
+IOE0930890705,Interview Cancelled,2025-05-16,interview_cancelled,2025-12-07 14:22:16
+IOE0930890847,Case Was Received,2025-03-21,case_received,2025-12-07 14:22:16
+IOE0930890847,Interview Cancelled,2025-06-23,interview_cancelled,2025-12-07 15:22:08
+IOE0930890847,Interview Was Scheduled,2025-11-25,last_status,2025-12-07 15:22:08
+IOE0930897199,Case Was Received,2025-03-21,case_received,2025-12-07 14:22:16
+IOE0930897199,Interview Cancelled,2025-06-24,interview_cancelled,2025-12-07 15:22:08
+IOE0930897202,Case Was Received,2025-03-21,case_received,2025-12-07 14:22:16
+IOE0930897202,Interview Cancelled,2025-06-24,interview_cancelled,2025-12-07 15:22:08
+IOE0931100024,Case Was Received,2025-03-31,case_received,2025-12-07 14:22:16
+IOE0931100024,Interview Cancelled,2025-07-23,interview_cancelled,2025-12-07 14:22:16
+IOE0931100512,Case Was Received,2025-03-31,case_received,2025-12-10 10:46:29
+IOE0931100512,Interview Cancelled,2025-07-22,interview_cancelled,2025-12-07 15:22:08
+IOE0931100512,Interview Was Scheduled,2025-11-05,last_status,2025-12-07 15:22:08
